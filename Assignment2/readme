@@ -1,8 +1,0 @@
-sudo python topo.py 
-
-
-
-THen 
- once mininet command line opens type the below command to check the connectivity of the hosts.
-
- pingall
